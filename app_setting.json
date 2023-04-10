@@ -1,0 +1,48 @@
+{
+	"cricker_setting": {
+		"live_watch_button": false,
+		"extra_button": false,
+		"youtube_video_id": "pTXYFqqmU3w",
+		"live_score_webview_url": "https://www.youtube.com/watch?v=piayfd9M1C8&ab_channel=Mzaalo",
+		"live_score_button": false,
+		"is_live_score_native": false,
+		"live_score_completed_webview_url": "https://www.youtube.com/watch?v=PFcE1Rw5lmo&ab_channel=PenMovies",
+		"live_score_completed_button": false,
+		"is_live_score_completed_native": false,
+		"live_score_upcoming_webview_url": "https://www.youtube.com/watch?v=V51sMMFMWqg&ab_channel=PenMovies",
+		"live_score_upcoming_button": false,
+		"is_live_score_upcoming_native": false,
+		"live_score_upcoming_auction_url": "https://www.youtube.com/watch?v=u3vdjHORApU&ab_channel=SuperSuper",
+		"live_score_upcoming_auction_button": false,
+		"is_live_score_upcoming_auction_native": false,
+		"live_score_upcoming_hightlighturl_url": "https://www.youtube.com/watch?v=K4EYZytG2Gw&ab_channel=ChaloFilmSune",
+		"live_score_upcoming_hightlighturl_button": false,
+		"is_live_score_upcoming_hightlighturl_native": false,
+		"live_score_upcoming_point_table_url": "https://www.youtube.com/watch?v=8jff2wz3Hpk&ab_channel=T-Series",
+		"live_score_upcoming_point_table_button": false,
+		"is_live_score_upcoming_point_table_native": false
+	},
+	"is_channel_list": true,
+	"is_override": true,
+	"thumb_width": 150,
+	"all_Channels_Tab_Name": "",
+	"iptv_player_package_id": "com.sport.iptv.player",
+	"main": {
+		"id": 1,
+		"name": "Palau Channels",
+		"sub_name": "Channels",
+		"thumbnail_url": "https://flagpedia.net/data/flags/h80/pw.png",
+		"sub": [
+			{
+				"id": 1,
+				"mode": "video",
+				"name_original": "Channel 1",
+				"name": "Bahrain International",
+				"sub_name": "",
+				"stream_video_url": "https://www.criclive.store/livvee.html",
+				"thumbnail_url": "https://www.lyngsat.com/logo/tv/bb/bahrain_tv_international.png",
+				"thumbnail_url_original": "https://raw.githubusercontent.com/tvgram-inc/tvgram-inc.github.io/master/images/logo.png"
+			}
+		]
+	}
+}
