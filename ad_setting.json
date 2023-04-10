@@ -35,7 +35,7 @@
 		"custom_ads"		
 	],			
 	"more_app_url": 	"https://play.google.com/store/apps/developer?id=Meet_Infotech.llc",		
-	"extra_url": 	"https://gitlab.com/meet_infotech/Cricket_IPTV_Lists/-/raw/main/app_setting.json", 		
+	"extra_url": 	"https://raw.githubusercontent.com/MeetInfotech2/Cricket_IPTV_Lists/main/app_setting.json", 		
 	"more_live_apps":	"", 		
 	"iptv_player_url":	 "com.pocketiptv",		
 	"ad_setting": {			
